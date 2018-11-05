@@ -2,7 +2,9 @@ h1{
   color:red;
   font-size: 20px;
 }
-p{ font-family: 'Arial';}
+p{ font-family: 'helvetica';
+font-size: 30px;
+color:#ffff00;}
 h2{font-size: 20px; }
 img{
   width:200px;
